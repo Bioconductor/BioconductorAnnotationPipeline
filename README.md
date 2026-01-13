@@ -1,6 +1,6 @@
-# Bioconductor Annotation Pipeline <a name="top"/>
+# Annotation Pipeline <a name="top"/> for Bioconductor Version 3.23
 
-The goal of the code in this package is to build the db0, OrgDb, PFAM, GO, 
+The goal of the code in this ~~package~~ repository is to build the db0, OrgDb, PFAM, GO, 
 and TxDb packages. As of Bioconductor 3.5 we no longer build KEGG, ChipDb, 
 probe or cdf packages. BSGenome, SNPlocs, and XtraSNPlocs packages are built 
 by Herve. 
